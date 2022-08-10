@@ -27,7 +27,7 @@ call plug#begin()
   Plug 'sheerun/vim-polyglot'
   Plug 'vim-airline/vim-airline'
   Plug 'ryanoasis/vim-devicons'
-  Plug 'jiangmiao/autopairs'
+  Plug 'jiangmiao/auto-pairs'
   Plug 'alvan/vim-closetag'
   Plug 'tpope/vim-surround'
   Plug 'preservim/nerdtree'
